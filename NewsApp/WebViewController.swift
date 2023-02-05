@@ -1,6 +1,4 @@
 import UIKit
-
-import UIKit
 import WebKit
 
 final class WebViewController: UIViewController {
